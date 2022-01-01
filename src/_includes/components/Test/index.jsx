@@ -1,6 +1,6 @@
 import React from 'react';
-import styles from './styles.module.css';
+import './styles.css';
 
-const Test = () => <div className={styles.test} />
+const Test = () => <div />
 
 export default Test;
